@@ -9,6 +9,7 @@
   "private": true,
   "homepage": "https://antkeo1.github.io/PictureApp",
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.5"
