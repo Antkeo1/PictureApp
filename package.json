@@ -4,7 +4,7 @@
       "pre-commit": "pretty-quick --staged"
     }
   },
-  "name": "seasons",
+  "name": "PictureApp",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://antkeo1.github.io/PictureApp",
